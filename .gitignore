@@ -1,2 +1,4 @@
 /data
 /target_models
+.pyc
+__pycache__
