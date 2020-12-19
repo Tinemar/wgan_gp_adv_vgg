@@ -10,7 +10,9 @@ I tried to implement this repository as much as possible with [tensorflow-genera
 This repository is included code for CPU mode Pytorch, but i did not test. I tested only in GPU mode Pytorch.
 
 python main.py --dataset cifar10 --gan_type DRAGAN --epoch 50 --batch_size 64
-
+###############################################
+后面都不用管，命令在shell.py里，数据集是mnist和cifar10，win10和linux都能跑，代码里的绝对路径改一下
+#################################################
 ## Dataset
 
 - MNIST
